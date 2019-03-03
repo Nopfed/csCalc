@@ -19,14 +19,25 @@ namespace Calculator
             InitializeComponent();
         }
 
+        private double currentValue;
+
         private void button1_Click(object sender, EventArgs e)
         {
-            output.AppendText("1");
+            if (!output.Text[output.Text.Length - 1].Equals(0))
+            {
+                
+            }
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
-            output.AppendText("0");
+            if (!output.Text[output.Text.Length-1].Equals(0))
+            {
+                currentValue *= 10;
+                output.Text = currentValue.ToString();
+            } 
+
+            
         }
 
         private void button11_Click(object sender, EventArgs e)
@@ -56,7 +67,7 @@ namespace Calculator
 
         private void button14_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button15_Click(object sender, EventArgs e)

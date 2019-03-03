@@ -73,14 +73,14 @@ namespace Calculator
             this.output.Cursor = System.Windows.Forms.Cursors.Default;
             this.output.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.output.Location = new System.Drawing.Point(12, 12);
-            this.output.MaxLength = 32;
+            this.output.MaxLength = 16;
             this.output.Multiline = true;
             this.output.Name = "output";
             this.output.ReadOnly = true;
             this.output.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.output.Size = new System.Drawing.Size(362, 78);
             this.output.TabIndex = 4;
-            this.output.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.output.Text = "0";
             this.output.TextChanged += new System.EventHandler(this.output_TextChanged);
             // 
             // button2
