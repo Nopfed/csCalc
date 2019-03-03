@@ -1,0 +1,10 @@
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Game Coding\CSharp\Calculator\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
